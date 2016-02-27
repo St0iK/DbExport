@@ -1,5 +1,5 @@
 # All Credits on idea and implementation go to Freek Van der Herten
-Recreated for training purposes and added some extra functionality (exporting gzipped dumps and specific tables)
+Re-created for training purposes and added some extra functionality (exporting gzipped dumps and specific tables)
 - [DbDumper](https://github.com/spatie/db-dumper)
 - [Freek Van der Herten](https://github.com/freekmurze)
 - [All Contributors](../../contributors)
