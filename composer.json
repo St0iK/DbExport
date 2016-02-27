@@ -1,0 +1,27 @@
+{
+    "name": "st0ik/DbExport",
+    "description": "Dumps databases",
+    "license": "MIT",
+    "keywords": ["DbExport"],
+    "authors": [
+        {
+            "name": "Dimitris Stoikidis ",
+            "email": "jstoikidis@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : "^5.5|^7.0",
+        "symfony/process": "^2.7|^3.0"
+        },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "St0iK\\DbExport\\": "src"
+        }
+    },
+    "scripts": {
+            "test": "vendor/bin/phpunit"
+    }
+}
